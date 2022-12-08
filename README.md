@@ -4,4 +4,4 @@ This repository contains scripts and workflow during the analysis of the microbi
 
 Content:
 
-1. 16S rRNA amplicon sequnces analysis as jupyter-lab nootbook[!https://github.com/SebasSaenz/silage_timetrial/blob/main/amplicon_silage_timetrial.ipynb]
+1. 16S rRNA amplicon sequnces analysis as jupyter-lab [notebook](https://github.com/SebasSaenz/silage_timetrial/blob/main/amplicon_silage_timetrial.ipynb)
